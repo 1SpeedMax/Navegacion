@@ -1,16 +1,4 @@
-# flutter_navegador
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Repositorio del taller “El Navegación Navigator y Rutas Anónimas”. 
+Incluye ejemplos de navegación en Flutter usando Navigator.push(), Navigator.pop(),
+MaterialPageRoute y paso de datos entre pantallas mediante constructores. 
+Ideal para aprender la pila de navegación y rutas anónimas.
